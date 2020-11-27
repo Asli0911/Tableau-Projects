@@ -1,4 +1,4 @@
-# TableauProjects
+# Tableau Projects
 
 1) Covid-19 Tracking Dashboard (Capstone Project)
 
