@@ -6,6 +6,7 @@
   * Comparison of different countries or states
   * Visualization of daily and total number of cases and deaths
 
+
 https://public.tableau.com/en-us/s/profile/asli.konus#!/vizhome/Covid-19TrackingDashboardCapstoneProject/Dashboard1
 
 
