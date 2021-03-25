@@ -1,6 +1,9 @@
 # Tableau Projects
 
-1) Covid-19 Tracking Dashboard (Capstone Project)
+1) Covid-19 Tracking Dashboard (Capstone Project):
+  * Interactive dashboard
+  * Url connection
+  * Comparison of different countries or states
 
 https://public.tableau.com/en-us/s/profile/asli.konus#!/vizhome/Covid-19TrackingDashboardCapstoneProject/Dashboard1
 
